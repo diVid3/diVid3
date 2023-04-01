@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about theodolites
 - 💞️ I’m allergic to dogs :< but I have the best doggo
 
-I have some things lying around here but github is not my only hosting provider. Once rested, feel free to poke around.
+I have some things laying around here though github is not my only hosting provider. Once rested, feel free to poke around.
 
 <!---
 diVid3/diVid3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
